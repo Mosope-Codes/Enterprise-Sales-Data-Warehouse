@@ -1,0 +1,14 @@
+{
+  "customers": 25000,
+  "products": 5000,
+  "stores": 250,
+  "employees": 1200,
+  "sales_rows": 300150,
+  "returns": 12000,
+  "targets": 2500,
+  "product_history": 2978,
+  "sales_rows_with_missing_customer_id": 120,
+  "sales_rows_with_invalid_net_amount": 100,
+  "exact_duplicate_sales_rows": 150,
+  "note": "Counts verified from the provided source CSVs during repository preparation. Missing customer ID and invalid net amount checks are distinct. Duplicate sales rows were identified using exact row duplication; business-key duplicates should be interpreted at the declared sales-line grain."
+}

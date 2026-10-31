@@ -1,0 +1,251 @@
+StoreID,StoreName,City,State,Region,StoreType,Status
+S0001,Umuahia Central 1,Aba,Abia,South East,Outlet,Inactive
+S0002,Benin City Plaza 2,Benin City,Edo,South South,High Street,Active
+S0003,Ilorin Outlet 3,Ilorin,Kwara,South West,High Street,Active
+S0004,Sagamu Plaza 4,Sagamu,Ogun,South West,Warehouse,Active
+S0005,Enugu Plaza 5,Enugu,Enugu,South East,Experience Centre,Active
+S0006,Aba Mall 6,Umuahia,Abia,South East,Mall,Active
+S0007,Nnewi Outlet 7,Nnewi,Anambra,South East,Experience Centre,Active
+S0008,Enugu Central 8,Enugu,Enugu,South East,Mall,Active
+S0009,Ilorin Central 9,Ilorin,Kwara,South West,Experience Centre,Active
+S0010,Asaba Outlet 10,Asaba,Delta,South South,Warehouse,Active
+S0011,Enugu Central 11,Enugu,Enugu,South East,Mall,Active
+S0012,Benin City Mall 12,Benin City,Edo,South South,High Street,Active
+S0013,Bonny Plaza 13,Bonny,Rivers,South South,Mall,Active
+S0014,Awka Mall 14,Onitsha,Anambra,South East,High Street,Active
+S0015,Ilorin Mall 15,Ilorin,Kwara,South West,Outlet,Active
+S0016,Ilorin Mall 16,Ilorin,Kwara,South West,Mall,Active
+S0017,Osogbo Outlet 17,Osogbo,Osun,South West,Outlet,Active
+S0018,Maitama Central 18,Gwarinpa,FCT,North Central,Mall,Active
+S0019,Jos Central 19,Jos,Plateau,North Central,Outlet,Active
+S0020,Kaduna Plaza 20,Kaduna,Kaduna,North West,Outlet,Active
+S0021,Ilorin Plaza 21,Ilorin,Kwara,South West,High Street,Active
+S0022,Warri Central 22,Asaba,Delta,South South,Experience Centre,Active
+S0023,Gwarinpa Central 23,Garki,FCT,North Central,Outlet,Active
+S0024,Enugu Outlet 24,Enugu,Enugu,South East,Mall,Active
+S0025,Obio-Akpor Plaza 25,Obio-Akpor,Rivers,South South,High Street,Active
+S0026,Osogbo Plaza 26,Osogbo,Osun,South West,Experience Centre,Active
+S0027,Jos Outlet 27,Jos,Plateau,North Central,Experience Centre,Active
+S0028,Benin City Central 28,Benin City,Edo,South South,Mall,Active
+S0029,Ogbomosho Plaza 29,Ibadan,Oyo,South West,High Street,Active
+S0030,Ogbomosho Mall 30,Ogbomosho,Oyo,South West,Mall,Active
+S0031,Enugu Plaza 31,Enugu,Enugu,South East,Experience Centre,Active
+S0032,Gwarinpa Plaza 32,Wuse,FCT,North Central,Mall,Active
+S0033,Bonny Mall 33,Port Harcourt,Rivers,South South,Outlet,Active
+S0034,Ikeja Central 34,Ikeja,Lagos,South West,Outlet,Active
+S0035,Benin City Plaza 35,Benin City,Edo,South South,Experience Centre,Active
+S0036,Kano Central 36,Kano,Kano,North West,Warehouse,Active
+S0037,Gwarinpa Central 37,Gwarinpa,FCT,North Central,High Street,Active
+S0038,Benin City Central 38,Benin City,Edo,South South,Experience Centre,Active
+S0039,Kano Mall 39,Kano,Kano,North West,Experience Centre,Active
+S0040,Osogbo Mall 40,Osogbo,Osun,South West,Outlet,Active
+S0041,Jos Mall 41,Jos,Plateau,North Central,High Street,Inactive
+S0042,Benin City Outlet 42,Benin City,Edo,South South,Experience Centre,Active
+S0043,Ifo Outlet 43,Sagamu,Ogun,South West,Warehouse,Active
+S0044,Benin City Outlet 44,Benin City,Edo,South South,Warehouse,Inactive
+S0045,Obio-Akpor Central 45,Obio-Akpor,Rivers,South South,Experience Centre,Active
+S0046,Kano Central 46,Kano,Kano,North West,Mall,Active
+S0047,Ogbomosho Central 47,Ogbomosho,Oyo,South West,High Street,Active
+S0048,Umuahia Central 48,Aba,Abia,South East,High Street,Active
+S0049,Enugu Mall 49,Enugu,Enugu,South East,Experience Centre,Active
+S0050,Nnewi Outlet 50,Onitsha,Anambra,South East,Experience Centre,Active
+S0051,Yaba Outlet 51,Surulere,Lagos,South West,Mall,Active
+S0052,Asaba Mall 52,Warri,Delta,South South,Outlet,Active
+S0053,Osogbo Mall 53,Osogbo,Osun,South West,Outlet,Active
+S0054,Surulere Mall 54,Ajah,Lagos,South West,Warehouse,Active
+S0055,Kaduna Mall 55,Kaduna,Kaduna,North West,High Street,Active
+S0056,Warri Plaza 56,Asaba,Delta,South South,Experience Centre,Active
+S0057,Osogbo Plaza 57,Osogbo,Osun,South West,High Street,Active
+S0058,Benin City Outlet 58,Benin City,Edo,South South,Warehouse,Active
+S0059,Kaduna Outlet 59,Kaduna,Kaduna,North West,Experience Centre,Active
+S0060,Kaduna Outlet 60,Kaduna,Kaduna,North West,Mall,Inactive
+S0061,Asaba Mall 61,Asaba,Delta,South South,Warehouse,Active
+S0062,Kaduna Plaza 62,Kaduna,Kaduna,North West,Mall,Active
+S0063,Kano Plaza 63,Kano,Kano,North West,Warehouse,Active
+S0064,Ogbomosho Plaza 64,Ogbomosho,Oyo,South West,Experience Centre,Active
+S0065,Asaba Mall 65,Warri,Delta,South South,High Street,Active
+S0066,Bonny Mall 66,Obio-Akpor,Rivers,South South,High Street,Inactive
+S0067,Ifo Outlet 67,Abeokuta,Ogun,South West,Mall,Active
+S0068,Abeokuta Plaza 68,Sagamu,Ogun,South West,High Street,Active
+S0069,Port Harcourt Central 69,Port Harcourt,Rivers,South South,High Street,Active
+S0070,Maitama Central 70,Gwarinpa,FCT,North Central,Experience Centre,Active
+S0071,Ibadan Mall 71,Ibadan,Oyo,South West,High Street,Active
+S0072,Kano Outlet 72,Kano,Kano,North West,Outlet,Active
+S0073,Nnewi Central 73,Awka,Anambra,South East,Experience Centre,Active
+S0074,Ikeja Outlet 74,Lekki,Lagos,South West,Outlet,Active
+S0075,Abuja Outlet 75,Abuja,FCT,North Central,Warehouse,Active
+S0076,Yaba Outlet 76,Lekki,Lagos,South West,Mall,Inactive
+S0077,Jos Central 77,Jos,Plateau,North Central,Mall,Active
+S0078,Abeokuta Plaza 78,Ifo,Ogun,South West,Warehouse,Active
+S0079,Abuja Central 79,Maitama,FCT,North Central,Warehouse,Active
+S0080,Kano Outlet 80,Kano,Kano,North West,Experience Centre,Active
+S0081,Enugu Outlet 81,Enugu,Enugu,South East,High Street,Active
+S0082,Ogbomosho Central 82,Ibadan,Oyo,South West,Warehouse,Active
+S0083,Benin City Plaza 83,Benin City,Edo,South South,Mall,Inactive
+S0084,Umuahia Mall 84,Umuahia,Abia,South East,High Street,Active
+S0085,Benin City Outlet 85,Benin City,Edo,South South,Mall,Active
+S0086,Abuja Mall 86,Garki,FCT,North Central,Outlet,Active
+S0087,Kano Mall 87,Kano,Kano,North West,Outlet,Active
+S0088,Benin City Plaza 88,Benin City,Edo,South South,Outlet,Active
+S0089,Enugu Plaza 89,Enugu,Enugu,South East,Warehouse,Active
+S0090,Ogbomosho Outlet 90,Ogbomosho,Oyo,South West,Warehouse,Active
+S0091,Ogbomosho Plaza 91,Ogbomosho,Oyo,South West,Experience Centre,Active
+S0092,Kano Mall 92,Kano,Kano,North West,Warehouse,Active
+S0093,Kaduna Outlet 93,Kaduna,Kaduna,North West,Experience Centre,Inactive
+S0094,Ogbomosho Outlet 94,Ibadan,Oyo,South West,Mall,Active
+S0095,Maitama Mall 95,Gwarinpa,FCT,North Central,High Street,Active
+S0096,Wuse Plaza 96,Garki,FCT,North Central,Mall,Active
+S0097,Sagamu Outlet 97,Sagamu,Ogun,South West,Warehouse,Active
+S0098,Abeokuta Central 98,Ifo,Ogun,South West,High Street,Active
+S0099,Enugu Mall 99,Enugu,Enugu,South East,High Street,Active
+S0100,Onitsha Central 100,Nnewi,Anambra,South East,Outlet,Active
+S0101,Kano Plaza 101,Kano,Kano,North West,High Street,Active
+S0102,Benin City Central 102,Benin City,Edo,South South,Experience Centre,Active
+S0103,Osogbo Mall 103,Osogbo,Osun,South West,Warehouse,Active
+S0104,Yaba Plaza 104,Surulere,Lagos,South West,Experience Centre,Active
+S0105,Benin City Mall 105,Benin City,Edo,South South,Warehouse,Active
+S0106,Umuahia Outlet 106,Umuahia,Abia,South East,Outlet,Active
+S0107,Nnewi Central 107,Onitsha,Anambra,South East,Outlet,Active
+S0108,Kaduna Mall 108,Kaduna,Kaduna,North West,Warehouse,Inactive
+S0109,Maitama Outlet 109,Abuja,FCT,North Central,Outlet,Active
+S0110,Kano Central 110,Kano,Kano,North West,High Street,Inactive
+S0111,Ibadan Central 111,Ogbomosho,Oyo,South West,Mall,Active
+S0112,Benin City Outlet 112,Benin City,Edo,South South,High Street,Active
+S0113,Enugu Mall 113,Enugu,Enugu,South East,Mall,Active
+S0114,Jos Central 114,Jos,Plateau,North Central,Experience Centre,Inactive
+S0115,Umuahia Plaza 115,Umuahia,Abia,South East,Experience Centre,Active
+S0116,Benin City Plaza 116,Benin City,Edo,South South,High Street,Inactive
+S0117,Wuse Central 117,Maitama,FCT,North Central,Outlet,Active
+S0118,Warri Outlet 118,Warri,Delta,South South,Warehouse,Active
+S0119,Kano Plaza 119,Kano,Kano,North West,High Street,Active
+S0120,Umuahia Mall 120,Umuahia,Abia,South East,Experience Centre,Active
+S0121,Benin City Plaza 121,Benin City,Edo,South South,Warehouse,Active
+S0122,Ifo Plaza 122,Ifo,Ogun,South West,Outlet,Active
+S0123,Osogbo Central 123,Osogbo,Osun,South West,Mall,Active
+S0124,Ikeja Outlet 124,Ajah,Lagos,South West,High Street,Inactive
+S0125,Osogbo Plaza 125,Osogbo,Osun,South West,Outlet,Active
+S0126,Obio-Akpor Outlet 126,Bonny,Rivers,South South,Experience Centre,Active
+S0127,Bonny Plaza 127,Obio-Akpor,Rivers,South South,Outlet,Active
+S0128,Nnewi Plaza 128,Nnewi,Anambra,South East,Mall,Inactive
+S0129,Lekki Plaza 129,Yaba,Lagos,South West,High Street,Inactive
+S0130,Kano Central 130,Kano,Kano,North West,Mall,Active
+S0131,Abuja Mall 131,Abuja,FCT,North Central,Outlet,Active
+S0132,Kano Central 132,Kano,Kano,North West,Outlet,Active
+S0133,Ogbomosho Mall 133,Ibadan,Oyo,South West,Mall,Active
+S0134,Obio-Akpor Mall 134,Bonny,Rivers,South South,Mall,Active
+S0135,Kano Plaza 135,Kano,Kano,North West,Mall,Active
+S0136,Abeokuta Plaza 136,Ifo,Ogun,South West,High Street,Active
+S0137,Bonny Plaza 137,Port Harcourt,Rivers,South South,Experience Centre,Active
+S0138,Jos Central 138,Jos,Plateau,North Central,High Street,Active
+S0139,Warri Outlet 139,Asaba,Delta,South South,Outlet,Active
+S0140,Kaduna Plaza 140,Kaduna,Kaduna,North West,Outlet,Inactive
+S0141,Enugu Central 141,Enugu,Enugu,South East,High Street,Inactive
+S0142,Umuahia Mall 142,Aba,Abia,South East,Experience Centre,Active
+S0143,Wuse Plaza 143,Gwarinpa,FCT,North Central,Warehouse,Active
+S0144,Jos Plaza 144,Jos,Plateau,North Central,Warehouse,Active
+S0145,Ogbomosho Mall 145,Ogbomosho,Oyo,South West,Warehouse,Active
+S0146,Garki Central 146,Garki,FCT,North Central,Mall,Inactive
+S0147,Ibadan Central 147,Ogbomosho,Oyo,South West,Warehouse,Active
+S0148,Lekki Mall 148,Ikeja,Lagos,South West,Experience Centre,Active
+S0149,Asaba Outlet 149,Asaba,Delta,South South,High Street,Active
+S0150,Kaduna Plaza 150,Kaduna,Kaduna,North West,Outlet,Active
+S0151,Benin City Mall 151,Benin City,Edo,South South,Experience Centre,Active
+S0152,Kaduna Plaza 152,Kaduna,Kaduna,North West,Mall,Active
+S0153,Asaba Mall 153,Asaba,Delta,South South,High Street,Inactive
+S0154,Kaduna Central 154,Kaduna,Kaduna,North West,Warehouse,Active
+S0155,Osogbo Mall 155,Osogbo,Osun,South West,Experience Centre,Active
+S0156,Kaduna Central 156,Kaduna,Kaduna,North West,Warehouse,Active
+S0157,Yaba Central 157,Lekki,Lagos,South West,Experience Centre,Inactive
+S0158,Abeokuta Mall 158,Ifo,Ogun,South West,High Street,Active
+S0159,Ifo Mall 159,Abeokuta,Ogun,South West,Warehouse,Inactive
+S0160,Bonny Outlet 160,Obio-Akpor,Rivers,South South,High Street,Active
+S0161,Enugu Central 161,Enugu,Enugu,South East,Outlet,Active
+S0162,Benin City Plaza 162,Benin City,Edo,South South,Warehouse,Active
+S0163,Umuahia Central 163,Umuahia,Abia,South East,Warehouse,Active
+S0164,Gwarinpa Outlet 164,Wuse,FCT,North Central,Mall,Active
+S0165,Jos Outlet 165,Jos,Plateau,North Central,Mall,Active
+S0166,Gwarinpa Mall 166,Garki,FCT,North Central,Warehouse,Active
+S0167,Ajah Plaza 167,Surulere,Lagos,South West,Warehouse,Active
+S0168,Kano Plaza 168,Kano,Kano,North West,High Street,Active
+S0169,Enugu Central 169,Enugu,Enugu,South East,Experience Centre,Active
+S0170,Asaba Mall 170,Asaba,Delta,South South,Outlet,Inactive
+S0171,Benin City Mall 171,Benin City,Edo,South South,Warehouse,Active
+S0172,Ibadan Mall 172,Ibadan,Oyo,South West,Warehouse,Active
+S0173,Kano Plaza 173,Kano,Kano,North West,High Street,Active
+S0174,Garki Central 174,Gwarinpa,FCT,North Central,Mall,Active
+S0175,Jos Mall 175,Jos,Plateau,North Central,Mall,Active
+S0176,Awka Central 176,Onitsha,Anambra,South East,High Street,Active
+S0177,Kano Outlet 177,Kano,Kano,North West,Warehouse,Inactive
+S0178,Ilorin Mall 178,Ilorin,Kwara,South West,Warehouse,Active
+S0179,Surulere Mall 179,Surulere,Lagos,South West,High Street,Active
+S0180,Ilorin Plaza 180,Ilorin,Kwara,South West,High Street,Active
+S0181,Kano Outlet 181,Kano,Kano,North West,Outlet,Active
+S0182,Obio-Akpor Mall 182,Port Harcourt,Rivers,South South,Experience Centre,Active
+S0183,Kano Plaza 183,Kano,Kano,North West,Warehouse,Active
+S0184,Benin City Outlet 184,Benin City,Edo,South South,Warehouse,Active
+S0185,Benin City Mall 185,Benin City,Edo,South South,Outlet,Active
+S0186,Aba Outlet 186,Umuahia,Abia,South East,High Street,Active
+S0187,Ilorin Mall 187,Ilorin,Kwara,South West,High Street,Active
+S0188,Ilorin Central 188,Ilorin,Kwara,South West,Outlet,Active
+S0189,Bonny Outlet 189,Obio-Akpor,Rivers,South South,Warehouse,Active
+S0190,Osogbo Central 190,Osogbo,Osun,South West,High Street,Active
+S0191,Osogbo Outlet 191,Osogbo,Osun,South West,Mall,Active
+S0192,Kaduna Plaza 192,Kaduna,Kaduna,North West,Mall,Inactive
+S0193,Enugu Plaza 193,Enugu,Enugu,South East,High Street,Active
+S0194,Ibadan Plaza 194,Ibadan,Oyo,South West,Outlet,Active
+S0195,Jos Outlet 195,Jos,Plateau,North Central,Experience Centre,Active
+S0196,Jos Mall 196,Jos,Plateau,North Central,Mall,Active
+S0197,Ibadan Mall 197,Ibadan,Oyo,South West,Experience Centre,Active
+S0198,Maitama Outlet 198,Garki,FCT,North Central,Warehouse,Active
+S0199,Sagamu Central 199,Ifo,Ogun,South West,Mall,Active
+S0200,Kaduna Mall 200,Kaduna,Kaduna,North West,Warehouse,Active
+S0201,Jos Mall 201,Jos,Plateau,North Central,Warehouse,Active
+S0202,Port Harcourt Central 202,Obio-Akpor,Rivers,South South,Experience Centre,Active
+S0203,Kano Plaza 203,Kano,Kano,North West,Warehouse,Active
+S0204,Jos Outlet 204,Jos,Plateau,North Central,Warehouse,Active
+S0205,Onitsha Outlet 205,Awka,Anambra,South East,Outlet,Active
+S0206,Ilorin Outlet 206,Ilorin,Kwara,South West,High Street,Active
+S0207,Enugu Central 207,Enugu,Enugu,South East,Outlet,Active
+S0208,Kaduna Central 208,Kaduna,Kaduna,North West,Outlet,Active
+S0209,Onitsha Central 209,Awka,Anambra,South East,Mall,Active
+S0210,Kaduna Mall 210,Kaduna,Kaduna,North West,Experience Centre,Active
+S0211,Bonny Central 211,Obio-Akpor,Rivers,South South,Warehouse,Active
+S0212,Kano Outlet 212,Kano,Kano,North West,Experience Centre,Active
+S0213,Bonny Outlet 213,Obio-Akpor,Rivers,South South,Warehouse,Active
+S0214,Ilorin Mall 214,Ilorin,Kwara,South West,Warehouse,Active
+S0215,Awka Plaza 215,Onitsha,Anambra,South East,High Street,Active
+S0216,Asaba Outlet 216,Asaba,Delta,South South,Experience Centre,Active
+S0217,Awka Central 217,Onitsha,Anambra,South East,Outlet,Active
+S0218,Osogbo Central 218,Osogbo,Osun,South West,High Street,Active
+S0219,Osogbo Plaza 219,Osogbo,Osun,South West,Mall,Active
+S0220,Warri Outlet 220,Asaba,Delta,South South,Outlet,Active
+S0221,Lekki Mall 221,Ikeja,Lagos,South West,Outlet,Inactive
+S0222,Kano Mall 222,Kano,Kano,North West,Warehouse,Active
+S0223,Enugu Mall 223,Enugu,Enugu,South East,Mall,Active
+S0224,Enugu Central 224,Enugu,Enugu,South East,Experience Centre,Active
+S0225,Enugu Outlet 225,Enugu,Enugu,South East,Mall,Active
+S0226,Kano Outlet 226,Kano,Kano,North West,Mall,Active
+S0227,Asaba Central 227,Asaba,Delta,South South,Warehouse,Active
+S0228,Port Harcourt Plaza 228,Port Harcourt,Rivers,South South,Warehouse,Active
+S0229,Abuja Outlet 229,Maitama,FCT,North Central,Warehouse,Active
+S0230,Garki Central 230,Garki,FCT,North Central,High Street,Active
+S0231,Ifo Plaza 231,Ifo,Ogun,South West,Warehouse,Active
+S0232,Wuse Central 232,Gwarinpa,FCT,North Central,Warehouse,Active
+S0233,Ifo Plaza 233,Sagamu,Ogun,South West,Mall,Active
+S0234,Enugu Outlet 234,Enugu,Enugu,South East,Mall,Active
+S0235,Ilorin Outlet 235,Ilorin,Kwara,South West,High Street,Active
+S0236,Ilorin Outlet 236,Ilorin,Kwara,South West,Warehouse,Inactive
+S0237,Enugu Mall 237,Enugu,Enugu,South East,Mall,Active
+S0238,Awka Central 238,Nnewi,Anambra,South East,Experience Centre,Active
+S0239,Osogbo Mall 239,Osogbo,Osun,South West,High Street,Active
+S0240,Obio-Akpor Central 240,Obio-Akpor,Rivers,South South,Outlet,Active
+S0241,Ifo Plaza 241,Ifo,Ogun,South West,High Street,Inactive
+S0242,Port Harcourt Outlet 242,Bonny,Rivers,South South,Mall,Active
+S0243,Umuahia Central 243,Umuahia,Abia,South East,High Street,Active
+S0244,Obio-Akpor Outlet 244,Obio-Akpor,Rivers,South South,Mall,Active
+S0245,Osogbo Mall 245,Osogbo,Osun,South West,High Street,Active
+S0246,Nnewi Mall 246,Nnewi,Anambra,South East,Mall,Active
+S0247,Umuahia Outlet 247,Umuahia,Abia,South East,High Street,Active
+S0248,Kaduna Plaza 248,Kaduna,Kaduna,North West,Experience Centre,Active
+S0249,Osogbo Central 249,Osogbo,Osun,South West,Mall,Active
+S0250,Onitsha Plaza 250,Awka,Anambra,South East,High Street,Active
